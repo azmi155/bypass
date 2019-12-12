@@ -15,9 +15,9 @@ brew install libusbmuxd https://raw.githubusercontent.com/kadwanev/bigboybrew/ma
 clear
 echo "**************** Checkra1n iCloud Bypass ****************"
 echo
-echo "=> By Luke:"
-echo "=>   - u/TheLukeGuy"
-echo "=>   - @ConsoleLogLuke"
+echo "=> By MaMiKa:"
+echo "=>   - Ulul Azmi"
+echo "=>   - @a_ulul15"
 echo
 echo "==> WARNING: Do not use this tool for illegal purposes. If you do anything illegal with it, I am NOT responsible."
 echo
