@@ -4,5 +4,5 @@
  kembudian copas ke terminal kode di bawah ini setelah jailbreak dengan Checkra1n
  
  ```comand
-bash <(curl -s https://gitlab.com/snippets/1912596/raw)
+bash <(curl -s https://raw.githubusercontent.com/azmi155/bypass/master/bypass.sh)
 ```
