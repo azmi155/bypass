@@ -6,3 +6,7 @@
  ```comand
 bash <(curl -s https://raw.githubusercontent.com/azmi155/bypass/master/bypass.sh)
 ```
+* Hapus "Know_SSH"
+ ```comand
+~/.ssh
+```
